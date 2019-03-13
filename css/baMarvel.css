@@ -1,0 +1,143 @@
+img.display{
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+img.centrer{
+  height: 350px;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.centrer{
+  text-align: center;
+}
+
+.video{
+  display:block;
+  width: 1280px;
+  height: 620px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+body{
+    background-image: url("img/fond2.jpg");
+    background-position: center;
+  background-attachment: fixed;
+}
+
+.silver{
+  margin-left: auto;
+}
+
+
+
+.all{
+  margin-left: auto;
+  margin-right: auto
+}
+
+.affi{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  color: red;
+  font-size: 40px;
+
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+  font-size: 30px;
+  border-bottom: 4px;
+  color: white;
+}
+
+
+button3{
+  margin-left: 200px;
+  margin-right: auto;
+  border: 2px solid #EFD807;
+  text-align: center;
+  padding: 20px 40px;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  color: #EFD807;
+
+}
+
+button3:hover{
+  background-color: #EFD807;
+  color: white;
+
+}
+
+button1{
+  margin-left: 250px;
+  margin-right: auto;
+  border: 2px solid #007FFF;
+  text-align: center;
+  padding: 20px 40px;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  color: #007FFF;
+
+
+}
+
+button1:hover{
+  background-color: #007FFF;
+  color: white;
+
+}
+
+button2{
+  margin-left: 200px;
+  margin-right: auto;
+  background-image: url("MARVEL.gif");
+  border: 2px solid #FF0000;
+  text-align: center;
+  padding: 20px 40px;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  color: #FF0000;
+  position: relative;
+
+}
+
+button2:hover{
+  background-color: #FF0000;
+  color: white;
+
+}
+
+iframe{
+  margin-left: 310px;
+
+}
+
+p{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+
+.thanos{
+  margin left: auto;
+  margin-right: auto;
+
+}
